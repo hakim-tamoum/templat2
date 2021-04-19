@@ -1,3 +1,3 @@
 # templat2
 
-### Deployment:  
+### Deployment:  https://hakim-tamoum.github.io/templat2/
