@@ -195,7 +195,7 @@ p { color: #555; padding-right: 15px; margin-top: 0}
 
 /* --------------------------- testimonials   -----*/
 .testim {
-    background-image: url('../img/testimonials.jpg');
+background-image: url('../img/testimonials.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
